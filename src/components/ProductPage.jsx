@@ -6,7 +6,7 @@ const product = {
   id: 'book-101',
   imageUrl: 'https://placehold.co/400x500/E0F2F7/2C3E50?text=Book+Cover', // Placeholder image URL
   title: 'test 123',
-  description: 'test 1234.',
+  description: 'test 1234567.',
   price: 29.99,
   currency: '$',
   stock: 10,
