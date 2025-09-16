@@ -7,11 +7,7 @@ const product = {
   //imageUrl: 'https://placehold.co/400x500/E0F2F7/2C3E50?text=Book+Cover', // Placeholder image URL
   imageUrl: 'https://www.ntuclearninghub.com/o/ntuclearninghub-theme/images/ntuc-learning-hub-logo-2.png',
   title: 'Exam 2025 09 16',
-<<<<<<< HEAD
   description: 'test 3.',
-=======
-  description: 'test 1234567.',
->>>>>>> parent of c71c677 (test1)
   price: 29.99,
   currency: '$',
   stock: 10,
