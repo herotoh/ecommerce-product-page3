@@ -4,7 +4,8 @@ import React, { useState } from 'react'; // Import useState hook
 // Product data (This will eventually come from an API)
 const product = {
   id: 'book-101',
-  imageUrl: 'https://placehold.co/400x500/E0F2F7/2C3E50?text=Book+Cover', // Placeholder image URL
+  //imageUrl: 'https://placehold.co/400x500/E0F2F7/2C3E50?text=Book+Cover', // Placeholder image URL
+  imageUrl: 'https://www.ntuclearninghub.com/o/ntuclearninghub-theme/images/ntuc-learning-hub-logo-2.png',
   title: 'Exam 2025 09 16',
   description: 'test 1234567.',
   price: 29.99,
