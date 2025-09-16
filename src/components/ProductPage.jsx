@@ -5,7 +5,7 @@ import React, { useState } from 'react'; // Import useState hook
 const product = {
   id: 'book-101',
   imageUrl: 'https://placehold.co/400x500/E0F2F7/2C3E50?text=Book+Cover', // Placeholder image URL
-  title: 'test 123',
+  title: 'Exam 2025 09 16',
   description: 'test 1234567.',
   price: 29.99,
   currency: '$',
